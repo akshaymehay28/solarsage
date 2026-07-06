@@ -1,0 +1,10 @@
+[
+  {"question": "What causes potential induced degradation in solar panels?", "relevant_doc": "pid_degradation"},
+  {"question": "How does PID affect module power output?", "relevant_doc": "pid_degradation"},
+  {"question": "How often should soiled panels be cleaned?", "relevant_doc": "soiling_maintenance"},
+  {"question": "What are the effects of dust accumulation on PV output?", "relevant_doc": "soiling_maintenance"},
+  {"question": "What do hot spots on a panel indicate?", "relevant_doc": "hotspots_faults"},
+  {"question": "How can bypass diode failure be detected?", "relevant_doc": "hotspots_faults"},
+  {"question": "What is a good performance ratio for a healthy PV system?", "relevant_doc": "performance_monitoring"},
+  {"question": "Which weather variables matter most when monitoring PV performance?", "relevant_doc": "performance_monitoring"}
+]
